@@ -6,7 +6,7 @@
 Выполнен на React с использованием Хуков. CSS - Bootstrap. Клиент только отображает данные с сервера, но может быть легко расширяемым.
 
 # Install
-1) Download `git clone ***`
+1) Download `git clone https://github.com/vadim121283/autosalon.git`
 2) Config for PostgreSQL `/server/config/index.js`
 3) Migration `/server/task/`
 4) `npm install` in server and client directories
