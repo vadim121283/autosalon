@@ -1,0 +1,5 @@
+export const SHOW_LOADER = 'SHOW_LOADER'
+export const FETCH_REVENUES = 'FETCH_REVENUES'
+export const FETCH_COSTS = "FETCH_COSTS"
+export const FETCH_SPENDS = "FETCH_SPENDS"
+export const FETCH_ORDERS = "FETCH_ORDERS"

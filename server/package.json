@@ -1,0 +1,27 @@
+{
+  "name": "autosalon-server",
+  "version": "0.1.0",
+  "description": "autosalon-server",
+  "author": {
+    "name": "Vadim Akhmatov",
+    "email": "vadim121283@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node --harmony server.js"
+  },
+  "dependencies": {
+    "@koa/cors": "^3.0.0",
+    "config": ">=3.1.0",
+    "koa": ">=2.7.0",
+    "koa-body": ">=4.1.0",
+    "koa-router": ">=7.4.0",
+    "pg": "^7.12.1",
+    "sequelize": "^5.2.7",
+    "sequelize-cli": "^5.4.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=8"
+  }
+}
