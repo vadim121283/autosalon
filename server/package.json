@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@koa/cors": "^3.0.0",
-    "config": ">=3.1.0",
+    "config": ">=3.3.8",
     "koa": ">=2.7.0",
     "koa-body": ">=4.1.0",
     "koa-router": ">=7.4.0",
